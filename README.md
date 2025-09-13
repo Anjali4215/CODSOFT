@@ -21,8 +21,7 @@ Libraries:
 
 Clone this repository
 
-git clone https://github.com//CODSOFT.git
-
+git clone https://github.com/Anjali4215/CODSOFT
 
 Navigate to the project folder
 
@@ -31,7 +30,7 @@ cd CODSOFT
 
 Run the Python file
 
-python task1.py
+python to_do_list.py
 
 🏅 Internship Details
 
